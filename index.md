@@ -6,3 +6,20 @@ I've had exposure to programming/computer science throughout my whole life but n
 ### Who am I outside of programming?
 [My Spotify Profile](https://open.spotify.com/user/sjting8?si=8a5ce23df9a348ae)
 
+My hobbies include:
+- baking
+- piano
+- climbing
+- calisthenics
+- digital art
+
+My favorite cat/dog breeds in order are:
+1. Chow chow dogs
+2. Persian cats
+3. Minuet cats
+4. Siberian cats
+5. Ragdolls
+6. British Longhair/Shorthair cats
+7. Samoyed dogs
+8. Huskies
+9. Everything else
