@@ -1,6 +1,7 @@
 # Sean Ting's User Page
 ## Table of Contents
 [Programming Experience](https://github.com/sjting8/sjting8.github.io/blob/main/index.md#programming-experience)
+[Who am I outside of programming?](https://github.com/sjting8/sjting8.github.io/blob/main/index.md#who-am-i-outside-of-programming)
 ### Programming Experience?
 I've had exposure to programming/computer science throughout my whole life but never really delved deep into a specific field, so I'm excited to start looking into specializations. I have a _little_ experience with **React/Typescript** and I have some exposure to **Django** (Django REST Framework) which may or may not help me in this course. In terms of frontend development, I'm also familiar with `mui`.
 > C++ is my favorite language, though as written in [this](README.md).
