@@ -10,7 +10,21 @@ I'm currently a second-year CS Major in Warren. I've had exposure to programming
 
 My hobbies include:
 - baking
+     - [x] brownies
+     - [x] muffins
+     - [x] focaccia
+     - [x] blondies
+     - [x] cookies
+     - [ ] pie
+     - [ ] cake
+     - [ ] sourdough
 - piano
+     - [x] Liebestraum
+     - [x] Prelude in C-Sharp Minor
+     - [x] Revolutionary Etude
+     - [ ] Winter Wind
+     - [ ] Un Sospiro
+     - [ ] Ballad No. 1 in G Minor
 - climbing
 - calisthenics
 - digital art
