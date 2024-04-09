@@ -12,6 +12,7 @@ My hobbies include:
 - climbing
 - calisthenics
 - digital art
+- video games
 
 My favorite cat/dog breeds in order are:
 1. Chow chow dogs
